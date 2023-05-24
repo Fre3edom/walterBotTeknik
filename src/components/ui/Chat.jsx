@@ -17,7 +17,7 @@ export default function Chat({ customData }) {
   const location = useLocation().pathname;
 
   // Put you api key here
-  const API_KEY = "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" ;
+  const API_KEY = "" ;
   
   let character = {};
 
